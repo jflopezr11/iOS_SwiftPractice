@@ -9,4 +9,4 @@ Currently have 7 Applications:
 * [Dicee-2.0](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/AutoLayout-iOS13) - Auto Layout and Orientation set up
 * [Xylophone](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Xylophone) Syntax from [ViewController.swift](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Xylophone/Xylophone/ViewController.swift)
 * [EggTimer]( https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/EggTimer) Syntax from [ViewController.swift](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/EggTimer/EggTimer/ViewController.swift)
-
+* [Quizzler](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Quizzler) Learn about MVC Design- Check out my Sytnax from [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Quizzler/Quizzler-iOS13/Model) and [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Quizzler/Quizzler-iOS13/Controller/ViewController.swift)
