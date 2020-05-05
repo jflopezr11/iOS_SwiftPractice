@@ -13,7 +13,7 @@ Currently have 12 Applications:
 * [Quizzler - Multiple Choice](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/QuizzlerMultipleChoice) More MVC Design practice - Check out my Sytnax from [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/QuizzlerMultipleChoice/Quizzler-iOS13/Model) and [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/QuizzlerMultipleChoice/Quizzler-iOS13/Controller/ViewController.swift)
 * [Destini](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Destini-iOS13) More MVC Design Practice - Check out my Sytnax from [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Destini-iOS13/Destini-iOS13/Model) and [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift)
 * [BMI-Calculator](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator)More MVC Design Practice - Check out my Sytnax from the [Models](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator/BMI%20Calculator/Models) folder and the [Controllers](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator/BMI%20Calculator/Controllers)
-* [Tipster](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster) Check out my Syntax from my [Controllers](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster/Tipsy/Controllers)
+* [Tipster](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster) Check out my Syntax from my [Controllers](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster/Tipsy/Controllers)folder. 
 
 
 
