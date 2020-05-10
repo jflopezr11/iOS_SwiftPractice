@@ -15,7 +15,7 @@ Currently have 13 Applications:
 * [BMI-Calculator](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator)- More MVC Design Practice - Check out my Sytnax from the [Models](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator/BMI%20Calculator/Models) folder and the [Controllers](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/BMI-Calculator/BMI%20Calculator/Controllers)
 * [Tipster](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster)- Check out my Syntax from my [Controllers](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Tipster/Tipsy/Controllers) folder. 
 * [Clima](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Clima-iOS13) -Weather App Clone that has dark mode enabled. Uses Open Weather API to get weather data of a City. 
-
+* [ByteCoin](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/ByteCoin-/ByteCoin)- Bitcoin currency exchange app. 
 
 
 
