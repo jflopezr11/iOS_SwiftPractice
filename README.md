@@ -18,7 +18,7 @@ Currently have 16 Applications:
 * [ByteCoin](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/ByteCoin-/ByteCoin)- Bitcoin currency exchange app. Check out my code [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/ByteCoin-/ByteCoin/Model) & [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/ByteCoin-/ByteCoin/Controller/ViewController.swift)
 * [Flash Chat iOS13](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13)- Messaging app that uses Firebase/Firestore as a database. Check out my code [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13/Models) & [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13/Controllers)
 * *[I AM RICH in SwiftUI](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich-SwiftUI)- Learning SwiftUI for my career
-
+* [JoshuaCard](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/JoshuaCard)- My personal business card made by SwiftUI!
 
 
 
