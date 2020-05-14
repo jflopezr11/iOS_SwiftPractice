@@ -1,7 +1,7 @@
 # iOS_SwiftPractice
 Learning Swift to accomplish my goal to become an iOS Developer. Using all clone repos from Dr. Angela Yu's Udemy course. 
 
-Currently have 13 Applications: 
+Currently have 16 Applications: 
 * [I Am Rich](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich)
 * [I Am Poor](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Poor)
 * [Dicee](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Dicee-iOS13)- Syntax from [ViewController.swift](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Dicee-iOS13/Dicee-iOS13/ViewController.swift)
@@ -17,7 +17,7 @@ Currently have 13 Applications:
 * [Clima](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Clima-iOS13) -Weather App Clone that has dark mode enabled. Uses Open Weather API to get weather data of a City. 
 * [ByteCoin](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/ByteCoin-/ByteCoin)- Bitcoin currency exchange app. Check out my code [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/ByteCoin-/ByteCoin/Model) & [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/ByteCoin-/ByteCoin/Controller/ViewController.swift)
 * [Flash Chat iOS13](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13)- Messaging app that uses Firebase/Firestore as a database. Check out my code [Model](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13/Models) & [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Flash%20Chat%20iOS13/Controllers)
-* *[I AM RICH in SWIFTUI](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich-SwiftUI)- Learning SwiftUI for my master
+* *[I AM RICH in SwiftUI](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich-SwiftUI)- Learning SwiftUI for my master
 
 
 
