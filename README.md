@@ -1,7 +1,7 @@
 # iOS_SwiftPractice
 Learning Swift to accomplish my goal to become an iOS Developer. Using all clone repos from Dr. Angela Yu's Udemy course. 
 
-Currently have 18 projects and variations: 
+Currently have 19 projects and variations: 
 
 * [I Am Rich](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich)
 * [I Am Poor](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Poor)
