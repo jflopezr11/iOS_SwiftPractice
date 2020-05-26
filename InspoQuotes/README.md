@@ -3,11 +3,11 @@
 # InspoQuotes
 
 
-## What you will create
+## What I created
 
 InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
 
-## What you will learn
+## What I learned
 
 * How to setup new in-app purchases on App Store Connect
 * How to use the StoreKit API to allow users to purchase premium content
