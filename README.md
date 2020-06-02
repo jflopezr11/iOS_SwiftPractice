@@ -1,7 +1,7 @@
 # iOS_SwiftPractice
 Learning Swift to accomplish my goal to become an iOS Developer. Using all clone repos from Dr. Angela Yu's Udemy course. 
 
-Currently have 21 projects and variations: 
+Currently have 22 projects and variations: 
 
 * [I Am Rich](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Rich)
 * [I Am Poor](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/I%20Am%20Poor)
@@ -25,3 +25,4 @@ Currently have 21 projects and variations:
 * * ['Todoey-REALM'](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Todoey.xcworkspace)- 'Todoey' is a Task Manager/ Todo List app for iOS made with Realms and UIKit. Still incomplete. 
 * [InspoQuotes](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/InspoQuotes/README.md)- InspoQuote is a app that allowed me to learn about In-App Purchases and Apple StoreKit Please check out my [code](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/InspoQuotes/InspoQuotes/QuoteTableViewController.swift)
 * ['iOSCalculator'](https://github.com/jflopezr11/iOS_SwiftPractice/tree/master/Calculator-Advanced/Calculator)- a simple Calculator app I worked on the AutoLayout. Followed MVC Protocol [Model](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Calculator-Advanced/Calculator/Model/CalculatorLogic.swift) and [Controller](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/Calculator-Advanced/Calculator/Controller/ViewController.swift)
+* ['Seefood'](https://github.com/jflopezr11/iOS_SwiftPractice/blob/master/SeeFood/SeeFood/ViewController.swift)- A very simple CoreML/Swift app that allows the user to take a picture and tells them whether the picture taken is a Hotdog or not a hotdog. A parody app taken from a Silicon Valley episode.
